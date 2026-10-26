@@ -1,0 +1,54 @@
+{
+ "dev": {
+  "cheapest premium": {
+   "picked_true_best_pct": 73,
+   "mean_regret_per_year": 375,
+   "wrong_confident_pct": 27,
+   "abstained_pct": 0
+  },
+  "premium + deductible": {
+   "picked_true_best_pct": 48,
+   "mean_regret_per_year": 1132,
+   "wrong_confident_pct": 52,
+   "abstained_pct": 0
+  },
+  "grid, always pick": {
+   "picked_true_best_pct": 73,
+   "mean_regret_per_year": 231,
+   "wrong_confident_pct": 27,
+   "abstained_pct": 0
+  },
+  "grid, pick only when clear": {
+   "picked_true_best_pct": 80,
+   "mean_regret_per_year": 52,
+   "wrong_confident_pct": 20,
+   "abstained_pct": 32
+  }
+ },
+ "held_out": {
+  "cheapest premium": {
+   "picked_true_best_pct": 66,
+   "mean_regret_per_year": 1164,
+   "wrong_confident_pct": 34,
+   "abstained_pct": 0
+  },
+  "premium + deductible": {
+   "picked_true_best_pct": 44,
+   "mean_regret_per_year": 1691,
+   "wrong_confident_pct": 56,
+   "abstained_pct": 0
+  },
+  "grid, always pick": {
+   "picked_true_best_pct": 70,
+   "mean_regret_per_year": 739,
+   "wrong_confident_pct": 30,
+   "abstained_pct": 0
+  },
+  "grid, pick only when clear": {
+   "picked_true_best_pct": 77,
+   "mean_regret_per_year": 431,
+   "wrong_confident_pct": 23,
+   "abstained_pct": 35
+  }
+ }
+}

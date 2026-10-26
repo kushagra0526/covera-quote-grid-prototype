@@ -1,0 +1,6 @@
+comparisons where the grid names a winner: 65 of 100
+  cheapest premium: mean regret 1061/yr, wrong 29%
+  premium + deductible: mean regret 1656/yr, wrong 57%
+  grid: mean regret 431/yr, wrong 23%
+  on the 35 comparisons the grid asks about, cheapest premium: mean regret 1356/yr, wrong 43%
+  on the 35 comparisons the grid asks about, premium + deductible: mean regret 1758/yr, wrong 54%
